@@ -10,11 +10,29 @@ h1{
 .maindiv{
     background-color: white;
     color:black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align: center
+    margin: auto
 }
+label {
+    padding-bottom: 12px;
+    display: inline-block;
+    width: 28%
+  }
+
+.form1 {
+    padding-left: 20%;
+    margin: auto
+}
+
+.highlight {
+    background-color: yellow;
+  }
+
+
+
+
 
 
 
